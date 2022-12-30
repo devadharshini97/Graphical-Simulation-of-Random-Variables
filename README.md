@@ -12,6 +12,7 @@ Simulation of Y random variates:
 The Y random variates are the obtained by transforming the X variates for the respective distribution. Transformation function definition can be found in the report and the code is implemented for different sample sizes of 100,1000 and 10000.
 
 Convergence of Random Variables:
+
 A GUI was created to showcase the different convergences of Y towards its mean value. The convergences that are showcased are:
   * Convergence in probability of Y towards it mean
   * Almost sure convergence of Y towards its mean
